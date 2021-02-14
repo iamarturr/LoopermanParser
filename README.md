@@ -2,4 +2,4 @@
 Parser .mp3 url from link
 
 
-Simple link = https://www.looperman.com/loops/detail/209709/nick-mira-x-foreigngotem-type-melody-150bpm-hip-hop-electric-guitar-loop
+Example link: https://www.looperman.com/loops/detail/209709/nick-mira-x-foreigngotem-type-melody-150bpm-hip-hop-electric-guitar-loop
